@@ -1,0 +1,12 @@
+body {
+    background-color: lightpink; /* Muda a cor de fundo para rosa claro */
+    font-family: Arial, sans-serif; /* Define a fonte da página */
+}
+
+h1 {
+    color: lightblue; /* Muda a cor do título para azul claro*/
+}
+
+p {
+    color: palevioletred; /* Muda a cor do texto do parágrafo para rosa */
+}
